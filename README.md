@@ -1,5 +1,4 @@
 - 👋 Hi, I’m evitable
-- 👀 I’m interested in motorcyles.. (NINJA H2R)
 
 <!---
 evitablexd/evitablexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
